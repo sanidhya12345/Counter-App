@@ -1,0 +1,23 @@
+h1{
+     text-align:center;
+     font-size: 50px;
+}
+.plus{
+    margin-right: 20px;
+    font-size: 40px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+.minus{
+    margin-left: 20px;
+    font-size: 40px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
+.plus:hover{
+    background-color: aqua;
+}
+.minus:hover{
+    background-color: burlywood;
+}
